@@ -1,0 +1,53 @@
+h1 {
+    color: black;
+    font-size: 40px;
+}
+
+li a {
+	color: blue;
+	font-size: 1.8em;
+}
+
+ul {
+	color: red;
+}
+
+ol li {
+	color: red;
+	font-size: 1.8em;
+}
+
+h2 {
+	color: purple;
+	font-size: 1.2em;
+}
+
+body {
+	background-color: lightblue;
+}
+
+img {
+	width: 300px;
+}
+
+label {
+	display: block;
+	font: 1.6rem 'Fira Sans', sans-serif;
+}
+
+input[type='submit'],
+label {
+	margin-top: 1rem;
+	width: 60%
+	margin: .7rem 0;
+}
+
+p {
+	font-size: 40px;
+}
+
+input {
+	width: 300px;
+	border-radius: 25px;
+	padding: 3px;
+}
